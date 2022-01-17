@@ -5,6 +5,8 @@
     box-sizing: border-box;
     font-family: 'Kanit';
     font-style: normal;
+    scroll-behavior: smooth;
+    scroll-margin-top: 100px;
 }
 header{
     box-shadow: 0px 3px 20px rgb(219, 219, 219);
