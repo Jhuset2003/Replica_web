@@ -58,6 +58,9 @@ header nav ul li a {
 header nav ul li a:hover{
     color: #8089f6;
 }
+header nav ul li a:active{
+    color: black;
+}
 .Feedback {
     width: 280px;
     height: 70px;
